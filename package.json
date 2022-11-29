@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "xn--5usv72l1para.tw",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

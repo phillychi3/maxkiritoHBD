@@ -5,11 +5,8 @@
 
 <template>
   <div class="main">
-    <h1>阿雷電神生日快樂</h1>
+    <h1>阿雷電神生日快樂!!</h1>
     <span>twitter:</span><a href="https://twitter.com/maxkirito_yxiao">https://twitter.com/maxkirito_yxiao</a>
-    
-
-
   </div>
 </template>
 
